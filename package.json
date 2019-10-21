@@ -1,24 +1,17 @@
 {
   "name": "solidity_react_dapp",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "",
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react-bootstrap": "^1.0.0-beta.14",
     "web3": "^1.2.1"
-=======
-  "description": "1.  -  run `npx create-react-app my-app` -  `cd my-app` -  run `npm start` 2. -  install web3 `$ npm install --save@1.0.0-beta.46` -  install `npm install react-bootstrap bootstrap`",
-  "main": "index.js",
-  "dependencies": {
-    "bootstrap": "^4.3.1",
-    "react-bootstrap": "^1.0.0-beta.14"
->>>>>>> fe08566470e1af45d933e5d42995cbab5f15afef
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
   },
   "repository": {
     "type": "git",
