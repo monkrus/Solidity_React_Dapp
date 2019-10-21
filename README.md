@@ -11,4 +11,7 @@ Steps
 -  `npm ls web3`
 -  `npm init`
 -  `npm install react-bootstrap bootstrap`
+-  `npm start` :rage: Please run this command from my-app folder to avoid an error!
+
+
 
