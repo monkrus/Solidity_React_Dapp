@@ -1,11 +1,14 @@
 Steps
 -----
 ### 1. 
-- `$ npx create-react-app my-app`
+- `node -v`
+- `npx create-react-app my-app`
 - `cd my-app`
-- `$ npm start`
-- `$ npm init`
+- `npm start`
+
 ### 2.
-- install web3 `$ npm install --save@1.0.0-beta.46`
-- install `$ npm install react-bootstrap bootstrap` 
-  
+-  `npm install web3` 
+-  `npm ls web3`
+-  `npm init`
+-  `npm install react-bootstrap bootstrap`
+
