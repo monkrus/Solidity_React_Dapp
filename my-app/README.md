@@ -9,6 +9,10 @@
 -  `npm ls web3`
 -  `npm init`
 -  `npm install react-bootstrap bootstrap`
+-  `npm start` :rage: Please run this command from `my-app` folder to avoid an error!
+-  :exclamation: please note: in Bootstrap version 4, the file 'bootstrap-theme.css' have been removed.To use version 4 remove the `import 'bootstrap/dist/vss/bootstrap.css'`, or else downgrade to version 3
+
+
 
 
 
