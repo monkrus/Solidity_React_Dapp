@@ -1,4 +1,4 @@
-<img src="https://monosnap.com/image/UZPsR5l6SbSO78BJUb8CLs0zZsU4Zl"/>
+<img src="https://monosnap.com/image/G6AsMIRdW0EnbtWaxbsHWR7DYdZmW1"/>
 
 Dapp University
 ---------------
