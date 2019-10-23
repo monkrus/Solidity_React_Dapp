@@ -18,7 +18,7 @@ React Dapp #1
 ### Step 01. 
 - `$ node -v`
 - `$ npx create-react-app my-app`
-- `$ cd create-react-app my-app`
+- `$ cd my-app`
 - `$ npm start`
 
 ### Step 02.
