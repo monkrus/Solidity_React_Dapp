@@ -32,7 +32,7 @@ React Dapp #2
 - clone https://github.com/dappuniversity/eth-todo-list
 - run Ganache
 - run `truffle migrate --reset` 
-- In case of ![#c5f015] `react-scripts` is not recognized as an internal or external command `#c5f015` error, please run `npm install react-scripts --save`
+- In case of  **react-scripts is not recognized as an internal or external command** error, please run `npm install react-scripts --save`
 
 React Dapp #3
 -----
