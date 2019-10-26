@@ -35,7 +35,7 @@ React Dapp #2
 - In case of  **react-scripts is not recognized as an internal or external command** error, please run `npm install react-scripts --save`
 
 React Dapp #3
------
+-
 
 React Dapp #4
 -----
