@@ -30,7 +30,7 @@ for (var i = 1; i <= taskCount; i++) {
       this.setState({
         tasks: [...this.state.tasks, task]
       })
-    } 
+    }
 }
 
 constructor(props) {
@@ -62,7 +62,7 @@ constructor(props) {
       this.setState({ loading: false })
     })
   }
-    
+
 
 // curly braces tell React we are going to execute JS
  render() {
