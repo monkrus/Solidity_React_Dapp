@@ -1,5 +1,3 @@
-<img src="https://monosnap.com/image/G6AsMIRdW0EnbtWaxbsHWR7DYdZmW1"/>
-
 Dapp University
 ---------------
 how to BECOME A HIGHLY PAID BLOCKCHAIN DEVELOPER
